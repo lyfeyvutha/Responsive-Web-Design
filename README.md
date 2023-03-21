@@ -1,1 +1,1 @@
-# introduction-to-web-development
+# INF250: Introduction to Web Development
